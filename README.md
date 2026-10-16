@@ -1,7 +1,7 @@
 # StudyMate-AI
 
 An AI-powered study assistant.
-
+🌐 **Live Demo:** [Visit StudyMate-AI](https://github.com/mohankrishna2008vetsa-debug/StudyMate-AI.git)
 ## Features
 - Feature 1
 - Feature 2
